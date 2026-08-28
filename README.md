@@ -1,6 +1,6 @@
-1. DFA Visualization
-2. NFA Visualization
-3. NFA to DFA conversion
-Click below to watch the demonstration video:
+<h2>🎥 Project Demonstration</h2>
 
-[▶️ Watch VKRACDELA Video](./VKRACDELA.mp4)
+<video width="800" controls>
+  <source src="./VKRACDELA.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
